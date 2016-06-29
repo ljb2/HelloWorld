@@ -1,5 +1,5 @@
-# HelloWorld
-My first try at GitHub.
+# Hello Word
+Some things to keep in mind...
 
 Creativity is a combination of discipline and a childlike spirit.
 ~ Robert Greene
